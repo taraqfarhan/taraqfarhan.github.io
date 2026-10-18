@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2048 2048" width="2048" height="2048">
+  <rect width="2048" height="2048" fill="#FFFFFF"/>
+  <!-- Letter T -->
+  <rect x="434" y="451" width="620" height="56" fill="#18181B"/>
+  <rect x="716" y="451" width="56" height="928" fill="#18181B"/>
+  <rect x="380" y="931" width="364" height="56" fill="#18181B"/>
+  
+  <!-- Left Via Pad -->
+  <circle cx="314" cy="959" r="76" fill="none" stroke="#6B7280" stroke-width="20"/>
+  <circle cx="314" cy="959" r="36" fill="none" stroke="#18181B" stroke-width="16"/>
+
+  <!-- T Schematic Ticks -->
+  <rect x="576" y="639" width="36" height="200" fill="#6B7280"/>
+  <rect x="876" y="639" width="36" height="200" fill="#6B7280"/>
+
+  <!-- T Ground Trace -->
+  <line x1="744" y1="1379" x2="944" y2="1579" stroke="#6B7280" stroke-width="36" stroke-linecap="round"/>
+
+  <!-- Letter F -->
+  <rect x="1216" y="451" width="56" height="988" fill="#18181B"/>
+  <rect x="1216" y="451" width="510" height="56" fill="#18181B"/>
+  <rect x="1216" y="931" width="452" height="56" fill="#18181B"/>
+
+  <!-- Right Via Pad (Cyan/Blue Accent) -->
+  <circle cx="1734" cy="959" r="76" fill="none" stroke="#6B7280" stroke-width="20"/>
+  <circle cx="1734" cy="959" r="36" fill="none" stroke="#008AFF" stroke-width="16"/>
+  <circle cx="1734" cy="959" r="14" fill="#008AFF"/>
+</svg>
